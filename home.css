@@ -1,0 +1,13 @@
+a:link,
+a:visited {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--hover);
+}
+
+a:active {
+  color: var(--active);
+}

@@ -1,0 +1,11 @@
+header {
+  text-align: center;
+}
+
+header a:link,
+header a:visited {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem;
+  font-size: 2rem;
+}
